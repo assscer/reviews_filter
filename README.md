@@ -58,5 +58,6 @@
     mysql -u new_user -p
 
 
+10. Проект запущен на порте localhost:8000
 
 
